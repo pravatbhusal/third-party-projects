@@ -1,5 +1,5 @@
 ## Xx_MLGSnipar_xX
-![Alt text](/game-Addons/Whirled/AVRG-Xx_MLGSnipar_xX/icon.png)
+![Icon](icon.png)
 
 Xx_MLGSnipar_xX is an FPS game for the website http://www.whirled.com/ and Synced http://www.syncedonline.com/
 The files are now open-source for anyone to study and utilize for future AVRG games in Synced or Whirled.

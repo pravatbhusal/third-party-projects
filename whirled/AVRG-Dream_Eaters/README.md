@@ -1,5 +1,5 @@
 ## Dream Coins
-![Alt text](/game-Addons/Whirled/AVRG-Dream_Eaters/rsrc/dreamicon.png)
+![Icon](rsrc/dreamicon.png)
 
 Dream Coins is a coin generator and search for prizes game for the website http://www.whirled.com/ and Synced http://www.syncedonline.com/
 The launcher game was created for Ghost Fever for her group named "Dream Eaters": http://www.syncedonline.com/#groups-d_543

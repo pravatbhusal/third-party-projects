@@ -1,4 +1,5 @@
 ## Three Hundred Rings
+![Icon](rsrc/ring125x175.png)
 
 Three Hundred Rings is an interactive clicking game for the website http://www.whirled.com/
 The files are now open-source for anyone to study and utilize for future AVRG games in Whirled.

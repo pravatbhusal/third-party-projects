@@ -1,5 +1,5 @@
 ## CoinZ
-![Alt text](/game-Addons/Whirled/AVRG-CoinZ/CoinZIcon.png)
+![Icon](CoinZIcon.png)
 
 CoinZ coin generator for the website http://www.whirled.com/ and Synced http://www.syncedonline.com/
 The files are now open-source for anyone to study and utilize for future AVRG games in Synced or Whirled.

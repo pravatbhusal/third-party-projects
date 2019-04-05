@@ -1,5 +1,5 @@
 ## Lucky Pick
-![Alt text](/game-Addons/Whirled/AVRG-Lucky_Pick/rsrc/launcher175x125.png)
+![Icon](rsrc/launcher175x125.png)
 
 Lucky Pick is a clover search game for the website http://www.whirled.com/ and Synced http://www.syncedonline.com/
 The launcher game was created for Paper Castle for her group named "Chibiville": http://www.syncedonline.com/#groups-d_619

@@ -1,5 +1,5 @@
 ## Black Void
-![Alt text](/game-Addons/Whirled/AVRG-Black_Void/blackvoidicon.png)
+![Icon](blackvoidicon.png)
 
 Black Void is a super fast coin generator for the website http://www.whirled.com/
 The files are now open-source for anyone to study and utilize for future AVRG games in Synced or Whirled.
